@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 DEV=/dev/sda
 REGION=Europe/Prague
 HOSTNAME=archlinux
